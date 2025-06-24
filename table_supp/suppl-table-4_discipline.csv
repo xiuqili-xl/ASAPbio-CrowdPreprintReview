@@ -1,0 +1,21 @@
+Discipline,Subdiscipline,n,percent
+Biology,Animal Behavior and Cognition,1,3
+Biology,Biochemistry,1,3
+Biology,Bioengineering,1,3
+Biology,Bioinformatics,1,3
+Biology,Biophysics,2,5
+Biology,Cancer Biology,2,5
+Biology,Cell Biology,8,21
+Biology,Developmental Biology,1,3
+Biology,Genetics,1,3
+Biology,Genomics,1,3
+Biology,Microbiology,3,8
+Biology,Molecular Biology,4,10
+Biology,Neuroscience,3,8
+Biology,Synthetic Biology,1,3
+Biology,Virology,1,3
+Biology,Other,1,3
+Earth and environmental science,,2,5
+Health Science,,1,3
+Medicine,,1,3
+Meta-research,,3,8

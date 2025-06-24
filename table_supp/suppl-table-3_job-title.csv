@@ -1,0 +1,11 @@
+JobTitle,JobTitle.Recoded,n,percent
+Masters Student,Students,2,5
+PhD Student,Students,5,13
+Post-doctoral Fellow,Postdocs,12,31
+Research Scientist,Research scientists,7,18
+Technician/Research Assistant,Research scientists,1,3
+Associate Professor/Lecturer,Faculty,4,10
+Principal Investigator,Faculty,1,3
+"Other, in academia",Other,3,8
+"Other, outside academia",Other,2,5
+I'd prefer not to answer,I'd prefer not to answer,2,5

@@ -1,0 +1,4 @@
+.DS_Store
+data_raw/
+000-data-pre-processing.R
+.Rproj.user
