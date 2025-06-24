@@ -215,7 +215,7 @@ ggarrange(ggarrange(ggplot() + theme_void(), participation_career, ggplot() + th
           legend = "top", common.legend = TRUE, 
           legend.grob = ggpubr::get_legend(participation_career))
 
-ggsave(filename = here("graphs_supp", "figureS1_demographics_white.png"),
+ggsave(filename = here("figures_supp", "figureS1_demographics_white.png"),
        width = 14, height = 13, dpi = 300, bg = "white")
 
 
@@ -310,7 +310,7 @@ ggarrange(preprint_yes_career,preprint_no_career,
           legend = "top", common.legend = TRUE, 
           legend.grob = ggpubr::get_legend(preprint_yes_career))
 
-ggsave(filename = here("graphs_supp", "figureS2_participation.png"),
+ggsave(filename = here("figures_supp", "figureS2_participation.png"),
        width = 14, height = 5, dpi = 300, bg = "white")
 
 
@@ -393,7 +393,7 @@ ggarrange(no_reviews_career, satisfaction_career,
           font.label = list(size = 20, color = "black", face = "bold", family = NULL),
           common.legend = TRUE)
 
-ggsave(filename = here("graphs_supp", "figureS3_preprint-reviewed.png"),
+ggsave(filename = here("figures_supp", "figureS3_preprint-reviewed.png"),
        width = 12, height = 4.9, dpi = 300, bg = "white")
 
 
@@ -448,7 +448,7 @@ why_stop_career <- ggplot(data = why_stop_career_data) +
 
 why_stop_career
 
-ggsave(why_stop_career, filename = here("graphs_supp", "figureS4_why_stop.png"),
+ggsave(why_stop_career, filename = here("figures_supp", "figureS4_why_stop.png"),
        width = 7.5, height = 5, dpi = 300, bg = "white")
 
 

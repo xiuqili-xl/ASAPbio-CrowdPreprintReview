@@ -54,7 +54,7 @@ survey_data %>%
   mutate(percent = n / sum(n) * 100, 
          percent = round(percent, 0)) %>%
   select(Nationality, n, percent, Nationality.GN.GS) %>%
-  write_csv(file = here("table_supp", "suppl-table-1_nationality.csv"))
+  write_csv(file = here("tables_supp", "suppl-table-1_nationality.csv"))
 
 
 ## Fig 2b: Career location, donut chart ----
@@ -90,7 +90,7 @@ survey_data %>%
   mutate(percent = n / sum(n) * 100, 
          percent = round(percent, 0)) %>%
   select(CareerLocation, n, percent, CareerLocation.GN.GS) %>%
-  write_csv(file = here("table_supp", "suppl-table-2_career-location.csv"))
+  write_csv(file = here("tables_supp", "suppl-table-2_career-location.csv"))
 
 
 
@@ -136,7 +136,7 @@ survey_data %>%
          percent = round(percent, 0),
          JobTitle.Recoded = factor(JobTitle.Recoded, levels = c(job_title_scale, "I'd prefer not to answer"))) %>%
   arrange(JobTitle.Recoded, JobTitle) %>%
-  write_csv(file = here("table_supp", "suppl-table-3_job-title.csv"))
+  write_csv(file = here("tables_supp", "suppl-table-3_job-title.csv"))
 
 
 
@@ -188,7 +188,7 @@ fig2d_data %>%
          percent = n / sum(n) * 100,
          percent = round(percent, 0)) %>%
   select(Discipline, Subdiscipline, n, percent) %>%
-  write_csv(file = here("table_supp", "suppl-table-4_discipline.csv"), na = "")
+  write_csv(file = here("tables_supp", "suppl-table-4_discipline.csv"), na = "")
 
 
 ## Assemble panels for Figure 2 ----
@@ -197,7 +197,7 @@ ggarrange(fig2a, fig2b, fig2c, fig2d,
           labels = c("A", "B", "C", "D"), label.x = 0.07, label.y = 0.95,
           font.label = list(size = 24, color = "black", face = "bold", family = NULL))
 
-ggsave(filename = here("graphs_main", "figure2_demographics_white.png"),
+ggsave(filename = here("figures_main", "figure2_demographics_white.png"),
        width = 13.5, height = 13.5, dpi = 300, bg = "white")
 
 
@@ -413,7 +413,7 @@ ggarrange(fig3a,
           font.label = list(size = 20, color = "black", face = "bold", family = NULL))
 
 
-ggsave(filename = here("graphs_main", "figure3_participation_white.png"),
+ggsave(filename = here("figures_main", "figure3_participation_white.png"),
        width = 14, height = 13, dpi = 300, bg = "white")
 
 
@@ -500,7 +500,7 @@ ggarrange(fig4a, fig4b,
           font.label = list(size = 20, color = "black", face = "bold", family = NULL),
           legend = "top", common.legend = TRUE)
 
-ggsave(filename = here("graphs_main", "figure4_preprint-review_white.png"),
+ggsave(filename = here("figures_main", "figure4_preprint-review_white.png"),
        width = 14, height = 5, dpi = 300, bg = "white")
 
 
@@ -660,7 +660,7 @@ ggarrange(fig5a, fig5b, fig5c, fig5d,
           labels = c("A", "B", "C", "D"), label.x = 0.02, label.y = 0.95,
           font.label = list(size = 24, color = "black", face = "bold", family = NULL))
 
-ggsave(filename = here("graphs_main", "figure5_active-participant_white.png"),
+ggsave(filename = here("figures_main", "figure5_active-participant_white.png"),
        width = 14, height = 13, dpi = 300, bg = "white")
 
 
@@ -707,7 +707,7 @@ fig6 <- ggplot(data = fig6_data) +
 
 fig6
 
-ggsave(fig6, filename = here("graphs_main", "figure6_inactive-participant_white.png"),
+ggsave(fig6, filename = here("figures_main", "figure6_inactive-participant_white.png"),
        width = 7.5, height = 5, dpi = 300, bg = "white")
 
 
