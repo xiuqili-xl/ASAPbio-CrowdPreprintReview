@@ -4,7 +4,7 @@ This GitHub repository contains the data and source code used for the following 
 
 [Li X](https://orcid.org/0000-0003-1796-8555), [Otto J](https://orcid.org/0009-0003-5210-9091), [Elkheir LYM](https://orcid.org/0000-0002-3516-334X), and [Coates JA](https://orcid.org/0000-0001-9039-9219). 2025. Evaluating the ASAPbio Crowd Preprint Review Initiative: Experiences, Feedback, and Future Enhancements . ***[Link TBA]***
 
-### Repository structure 
+## Repository structure 
 
 - The [`code/`](code/) directory contains code used in the analysis, incuding those used to generate figures and tables in the manuscript 
 - The [`data/`](data/) directory contains pre-processed survey data and data dictionary
@@ -13,7 +13,7 @@ This GitHub repository contains the data and source code used for the following 
 - The [`figures_supp/`](figures_supp/) directory contains Supplemental Figure 1-4 of the manuscript
 - The [`tables_supp/`](tables_supp/) directory contains Supplemental Table 1-4 of the manuscript
 
-### Reproducibility note
+## Reproducibility note
 Session info obtained using `utils:::print.sessionInfo(sessionInfo()[-8])`
 ```
 R version 4.4.1 (2024-06-14)
