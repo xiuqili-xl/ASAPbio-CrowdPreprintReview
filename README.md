@@ -12,7 +12,7 @@ This repository is also archived on Zenodo ***[Link TBA]***
 
 - The [`code/`](code/) directory contains code used in the analysis, incuding those used to generate figures and tables in the manuscript 
 - The [`data/`](data/) directory contains pre-processed survey data and data dictionary
-  - ***Survey data was recoeded via Google Form/Sheet. Raw data was pre-processed and all free-text entries were removed to protect respondent anonymity.***
+  - *Survey data was collected via a Google Form. Raw data was pre-processed and all free-text entries were removed to protect respondent anonymity.*
 - The [`figures_main/`](figures_main/) directory contains Figure 2-6 of the manuscript
 - The [`figures_supp/`](figures_supp/) directory contains Supplemental Figure 1-4 of the manuscript
 - The [`tables_supp/`](tables_supp/) directory contains Supplemental Table 1-4 of the manuscript
