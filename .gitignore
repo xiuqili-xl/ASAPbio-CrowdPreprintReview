@@ -1,4 +1,12 @@
+# Mac DS_Store files
 .DS_Store
+**/.DS_Store
+
+# RStudio files
+.Rproj.user
+.RData
+.Rhistory
+
+# raw data and pre-processing script
 data_raw/
 000-data-pre-processing.R
-.Rproj.user
