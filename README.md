@@ -2,11 +2,11 @@
 
 **This GitHub repository contains the data and source code used for the following manuscript:**
 
-[Li X](https://orcid.org/0000-0003-1796-8555)#, [Otto JL](https://orcid.org/0009-0003-5210-9091)#, [Elkheir LYM](https://orcid.org/0000-0002-3516-334X), and [Coates JA](https://orcid.org/0000-0001-9039-9219). 2025. Evaluating the ASAPbio Crowd Preprint Review Initiative: Experiences, Feedback, and Future Enhancements. MetaArXriv. 2025 Jul 14.  **doi TBA** [#Co-first authors, listed alphabetically by surname]
+Li X#, Otto JL#, Elkheir LYM, and Coates JA. Evaluating the ASAPbio Crowd Preprint Review Initiative: Experiences, Feedback, and Future Enhancements. MetaArXriv. 2025 Jul 14.  **doi TBA** [#Co-first authors, listed alphabetically by surname]
 
 **This repository is also archived on Zenodo:**
 
-[Li X](https://orcid.org/0000-0003-1796-8555), [Otto JL](https://orcid.org/0009-0003-5210-9091), [Elkheir LYM](https://orcid.org/0000-0002-3516-334X), and [Coates JA](https://orcid.org/0000-0001-9039-9219). Data on ASAPbio's Crowd Preprint Review program (1.0) [Data set]. Zenodo. 2025 Jul 10. doi: [10.5281/zenodo.15854968](https://doi.org/10.5281/zenodo.15854968)
+Li X, Otto J, Elkheir L, and Coates J. Data on ASAPbio's Crowd Preprint Review program (1.0) [Data set]. Zenodo. 2025 Jul 10. doi: [10.5281/zenodo.15854968](https://doi.org/10.5281/zenodo.15854968)
 
 <br/>
 
