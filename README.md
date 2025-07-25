@@ -6,7 +6,7 @@
 
 **This repository is also archived on Zenodo:**
 
-[Li X](https://orcid.org/0000-0003-1796-8555), [Otto JL](https://orcid.org/0009-0003-5210-9091), [Elkheir LYM](https://orcid.org/0000-0002-3516-334X), and [Coates JA](https://orcid.org/0000-0001-9039-9219). Data on ASAPbio's Crowd Preprint Review program (1.0) [Data set]. Zenodo. 2025 Jul 10. doi: 10.5281/zenodo.15854968
+[Li X](https://orcid.org/0000-0003-1796-8555), [Otto JL](https://orcid.org/0009-0003-5210-9091), [Elkheir LYM](https://orcid.org/0000-0002-3516-334X), and [Coates JA](https://orcid.org/0000-0001-9039-9219). Data on ASAPbio's Crowd Preprint Review program (1.0) [Data set]. Zenodo. 2025 Jul 10. doi: [10.5281/zenodo.15854968](https://doi.org/10.5281/zenodo.15854968)
 
 <br/>
 
