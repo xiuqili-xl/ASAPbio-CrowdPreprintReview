@@ -2,7 +2,7 @@
 
 **This GitHub repository contains the data and source code used for the following manuscript:**
 
-Li X#, Otto JL#, Elkheir LYM, and Coates JA. Evaluating the ASAPbio Crowd Preprint Review Initiative: Experiences, Feedback, and Future Enhancements. MetaArXriv. 2025 Jul 14.  **doi TBA** [#Co-first authors, listed alphabetically by surname]
+Li X#, Otto JL#, Elkheir LYM, and Coates JA. Evaluating the ASAPbio Crowd Preprint Review Initiative: Experiences, Feedback, and Future Enhancements. MetaArXriv. 2025 Jul 14. doi: [10.31222/osf.io/uxfnh_v1](https://doi.org/10.31222/osf.io/uxfnh_v1) [# indicates co-first authors]
 
 **This repository is also archived on Zenodo:**
 
